@@ -1,6 +1,6 @@
 fun main(args: Array<String>) {
-    println("Hello World!")
+    println("Hello Kotlin Beginner!")
 
     // Try adding program arguments at Run/Debug configuration
-    println("Program arguments: ${args.joinToString()}")
+    println("Spread your knowledge to this repository about Kotlin Usage!!")
 }
