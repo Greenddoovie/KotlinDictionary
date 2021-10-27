@@ -30,7 +30,7 @@
 4.1 클래스 계층 정의</br>
 4.2 뻔하지 않은 생성자와 프로퍼티를 갖는 클래스 선언</br>
 4.3 컴파일러가 생성한 메소드: 데이터 클래스와 클래스 위임</br>
-4.4 object 키워드: 클래스 선언과 인스턴스 생성</br>
+[4.4 object 키워드: 클래스 선언과 인스턴스 생성](https://github.com/Greenddoovie/KotlinDictionary/blob/main/4%EC%9E%A5_%ED%81%B4%EB%9E%98%EC%8A%A4_%EA%B0%9D%EC%B2%B4_%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4/4.4%20object%20%ED%82%A4%EC%9B%8C%EB%93%9C:%20%ED%81%B4%EB%9E%98%EC%8A%A4%20%EC%84%A0%EC%96%B8%EA%B3%BC%20%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4%20%EC%83%9D%EC%84%B1.md)</br>
 
 5장. 람다로 프로그래밍</br>
 5.1 람다 식과 멤버 참조</br>
