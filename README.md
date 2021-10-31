@@ -15,7 +15,7 @@
 2장. 코틀린 기초</br>
 2.1 기본 요소: 함수와 변수</br>
 2.2 클래스와 프로퍼티</br>
-2.3 선택의 표현과 처리: enum과 when</br>
+[2.3 선택의 표현과 처리: enum과 when](https://github.com/Greenddoovie/KotlinDictionary/blob/main/2%EC%9E%A5_%EC%BD%94%ED%8B%80%EB%A6%B0_%EA%B8%B0%EC%B4%88/2.3%20%EC%84%A0%ED%83%9D%EC%9D%98%20%ED%91%9C%ED%98%84%EA%B3%BC%20%EC%B2%98%EB%A6%AC:%20enum%EA%B3%BC%20when.md)</br>
 2.4 대상을 이터레이션: while과 for 루프</br>
 2.5 코틀린의 예외 처리</br>
 
