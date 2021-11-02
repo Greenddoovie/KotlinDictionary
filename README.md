@@ -1,6 +1,4 @@
-# KotlinBasicUsage
-우리들의 코틀린 사용법 공부 기록
-
+# KotlinDictionary
 
 ## 기간
 2021.10.23(토) ~ 현재
