@@ -12,10 +12,10 @@
 
 ## 목차
 2장. 코틀린 기초</br>
-2.1 기본 요소: 함수와 변수</br>
+[2.1 기본 요소: 함수와 변수](https://github.com/Greenddoovie/KotlinDictionary/blob/main/2%EC%9E%A5_%EC%BD%94%ED%8B%80%EB%A6%B0_%EA%B8%B0%EC%B4%88/2.1%20%EA%B8%B0%EB%B3%B8%EC%9A%94%EC%86%8C:%20%ED%95%A8%EC%88%98%EC%99%80%20%EB%B3%80%EC%88%98.md)</br>
 2.2 클래스와 프로퍼티</br>
 [2.3 선택의 표현과 처리: enum과 when](https://github.com/Greenddoovie/KotlinDictionary/blob/main/2%EC%9E%A5_%EC%BD%94%ED%8B%80%EB%A6%B0_%EA%B8%B0%EC%B4%88/2.3%20%EC%84%A0%ED%83%9D%EC%9D%98%20%ED%91%9C%ED%98%84%EA%B3%BC%20%EC%B2%98%EB%A6%AC:%20enum%EA%B3%BC%20when.md)</br>
-2.4 대상을 이터레이션: while과 for 루프</br>
+[2.4 대상을 이터레이션: while과 for 루프](https://github.com/Greenddoovie/KotlinDictionary/blob/main/2%EC%9E%A5_%EC%BD%94%ED%8B%80%EB%A6%B0_%EA%B8%B0%EC%B4%88/2.4%20%EB%8C%80%EC%83%81%EC%9D%84%20%EC%9D%B4%ED%84%B0%EB%A0%88%EC%9D%B4%EC%85%98:%20while%EA%B3%BC%20for%20%EB%A3%A8%ED%94%84.md)</br>
 2.5 코틀린의 예외 처리</br>
 
 3장. 함수 정의와 호출</br>
