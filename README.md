@@ -20,8 +20,8 @@
 
 3장. 함수 정의와 호출</br>
 3.1 코틀린에서 컬렉션 만들기</br>
-3.2 함수를 호출하기 쉽게 만들기</br>
-3.3 메소드를 다른 클래스에 추가: 확장 함수와 확장 프로퍼티</br>
+[3.2 함수를 호출하기 쉽게 만들기](https://github.com/Greenddoovie/KotlinDictionary/blob/main/3%EC%9E%A5_%ED%95%A8%EC%88%98_%EC%A0%95%EC%9D%98%EC%99%80%ED%98%B8%EC%B6%9C/3.2%20%ED%95%A8%EC%88%98%EB%A5%BC%20%ED%98%B8%EC%B6%9C%ED%95%98%EA%B8%B0%20%EC%89%BD%EA%B2%8C%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md)</br>
+[3.3 메소드를 다른 클래스에 추가: 확장 함수와 확장 프로퍼티](https://github.com/Greenddoovie/KotlinDictionary/blob/main/3%EC%9E%A5_%ED%95%A8%EC%88%98_%EC%A0%95%EC%9D%98%EC%99%80%ED%98%B8%EC%B6%9C/3.3%20%EB%A9%94%EC%86%8C%EB%93%9C%EB%A5%BC%20%EB%8B%A4%EB%A5%B8%20%ED%81%B4%EB%9E%98%EC%8A%A4%EC%97%90%20%EC%B6%94%EA%B0%80:%20%ED%99%95%EC%9E%A5%20%ED%95%A8%EC%88%98%EC%99%80%20%ED%99%95%EC%9E%A5%20%ED%94%84%EB%A1%9C%ED%8D%BC%ED%8B%B0.md)</br>
 3.4 컬렉션 처리: 가변 길이 인자, 중위 함수 호출, 라이브러리 지원</br>
 3.5 문자열과 정규식 다루기</br>
 
