@@ -40,7 +40,7 @@
 
 
 6장. 코틀린 타입 시스템</br>
-- 6.1 [널 가능성](https://github.com/Greenddoovie/KotlinDictionary/blob/main/6%EC%9E%A5_%EC%BD%94%ED%8B%80%EB%A6%B0_%ED%83%80%EC%9E%85_%EC%8B%9C%EC%8A%A4%ED%85%9C/6.1%20%EB%84%90%20%EA%B0%80%EB%8A%A5%EC%84%B1.md)</br>
+- [6.1 널 가능성](https://github.com/Greenddoovie/KotlinDictionary/blob/main/6%EC%9E%A5_%EC%BD%94%ED%8B%80%EB%A6%B0_%ED%83%80%EC%9E%85_%EC%8B%9C%EC%8A%A4%ED%85%9C/6.1%20%EB%84%90%20%EA%B0%80%EB%8A%A5%EC%84%B1.md)</br>
 - 6.2 코틀린의 기본 타입</br>
 - 6.3 컬렉션과 배열</br>
 
