@@ -34,8 +34,8 @@
 5장. 람다로 프로그래밍</br>
 - [5.1 람다 식과 멤버 참조](https://github.com/Greenddoovie/KotlinDictionary/blob/main/5%EC%9E%A5_%EB%9E%8C%EB%8B%A4%EB%A1%9C%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/5.1%20%EB%9E%8C%EB%8B%A4%20%EC%8B%9D%EA%B3%BC%20%EB%A9%A4%EB%B2%84%20%EC%B0%B8%EC%A1%B0.md)</br>
 - [5.2 컬렉션 함수형 API](https://github.com/Greenddoovie/KotlinDictionary/blob/main/5%EC%9E%A5_%EB%9E%8C%EB%8B%A4%EB%A1%9C%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/5.2%20%EC%BB%AC%EB%A0%89%EC%85%98%20%ED%95%A8%EC%88%98%ED%98%95%20API.md)</br>
-- 5.3 지연 계산 lazy 컬렉션 연산</br>
-- 5.4 자바 함수형 인터페이스 활용</br>
+- [5.3 지연 계산 lazy 컬렉션 연산](https://github.com/Greenddoovie/KotlinDictionary/blob/main/5%EC%9E%A5_%EB%9E%8C%EB%8B%A4%EB%A1%9C%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/5.3%20%EC%A7%80%EC%97%B0%20%EA%B3%84%EC%82%B0(lazy)%20%EC%BB%AC%EB%A0%89%EC%85%98%20%EC%97%B0%EC%82%B0.md)</br>
+- [5.4 자바 함수형 인터페이스 활용](https://github.com/Greenddoovie/KotlinDictionary/blob/main/5%EC%9E%A5_%EB%9E%8C%EB%8B%A4%EB%A1%9C%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/5.4%20%EC%9E%90%EB%B0%94%20%ED%95%A8%EC%88%98%ED%98%95%20%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%20%ED%98%B8%EC%B6%9C.md)</br>
 - 5.5 수신 객체 지정 람다: with와 apply</br>
 
 
